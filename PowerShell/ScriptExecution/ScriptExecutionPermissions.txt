@@ -1,0 +1,8 @@
+<#
+   Restricted 
+   AllSigned 
+   RemoteSigned 
+   Unrestricted 
+#>
+
+Set-ExecutionPolicy Unrestricted
